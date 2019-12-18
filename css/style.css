@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.features{
+    width: 100%;
+    float: left;
+    background: url(../img/bg.jpg);
+    padding: 60px 10px;
+}
+.features-left{
+    width: 60%;
+    float: left;
+    padding: 25px 0px;
+}
+.features-left h2{
+    font-weight: bold;
+    margin: 0px auto;
+    color: #231d1d;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.features-left p{
+    color: #462f2f;
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.features-left ul {
+    list-style: none;
+}
+.features-left ul li{
+    padding: 2px;
+}
+.features-left ul li a{
+    padding: 64px 4px;
+    color: #1b1919;
+    font-size: 18px;
+    text-decoration: none;
+}
+.btn{
+    padding: 5px 23px;
+    margin: 10px 3px;
+    border-radius: 17px;
+    color: #1d0e0e;
+    background: #427898;
+    text-transform: uppercase;
+}
+.register{
+    width: 40%;
+    float: left;
+    background: #1f2325;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.register h2{
+    font-size: 45px;
+    color: #e8dddd;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.register p{
+    font-size: 20px;
+    text-align: center;
+    color: #c1a5a5;
+    margin: 10px;
+}
+.form-control{
+    background-color: #c2c8ce;
+    width: 90%;
+    float: left;
+    margin: 3px 10px;
+    padding: 15px 10px;
+    border-radius: 5px;
+}
+.bt{
+    padding: 10px;
+    margin: 20px;
+    width: 90%;
+    color: #f5e8e8;
+    background: #363b40;
+    border-radius: 16px;
+    font-size: 23px;
+    text-transform: uppercase;
+}
